@@ -13,4 +13,4 @@ Autoprefix and minify the CSS file\
 Concatenate the JS files\
 Uglify the JS files\
 Minification of Image files\
-Move final CSS and JS files to the **/dist** folder
+Move final CSS and JS files to the <code>/dist</code> folder
