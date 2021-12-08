@@ -4,7 +4,7 @@ HTML, CSS, Bootstrap 4 boilerplate with gulp
 # Quickstart guide
 Clone or download this Git repo onto your computer.\
 Install Node.js if you don't have it yet.\
-Run *npm install*\
+Run <code>npm install</code>\
 Run gulp to run the default Gulp task\
 In this proejct, Gulp is configured to run the following functions:
 
@@ -13,4 +13,4 @@ Autoprefix and minify the CSS file\
 Concatenate the JS files\
 Uglify the JS files\
 Minification of Image files\
-Move final CSS and JS files to the */dist* folder
+Move final CSS and JS files to the **/dist** folder
